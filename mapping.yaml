@@ -830,7 +830,7 @@ languages:
     - amazigh_latin
     - qwerty_amazigh
     - qwertz_amazigh
-  zh_Hans:
+  zh:
     - zh_qwerty
     - zh_stroke
   zh_Hant:
