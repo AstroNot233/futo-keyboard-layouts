@@ -1,4 +1,5 @@
 name: QWERTY
+imeHint: "qwerty"
 rows:
   - letters: q w e r t y u i o p
   - letters: a s d f g h j k l
